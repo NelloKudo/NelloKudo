@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellokudo&label=Profile%20views&color=b13612&style=flat" alt="nellokudo" /> </p>
 
-<img align="right" alt="chilling 8)" width="200" src="https://user-images.githubusercontent.com/98063377/233376614-c753993d-5fae-493a-ae56-1e3cfc0af08f.gif">
-
 - 🔭 Currently working on: [SimpleWebMtoMP4Converter](https://github.com/NelloKudo/SimpleWebMtoMP4Converter)
 
 - 🌱 Currently learning: **Java, Swift**
