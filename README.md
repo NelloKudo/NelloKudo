@@ -1,15 +1,15 @@
 ![b275014-FlcOu4jwbpLe](https://user-images.githubusercontent.com/98063377/233370749-7b400714-ca72-4fb7-a1c3-96923836fad6.jpg)
 
 <h1 align="center">o/, Nello here!</h1>
-<h2 align="center">Linux enthusiast, CS student in Sapienza - University of Rome.</h2>
+<h2 align="center">Linux enthusiast, CS student ( ˘▽˘)っ♨ </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellokudo&label=Profile%20views&color=b13612&style=flat" alt="nellokudo" /> </p>
 
-- 🔭 Currently working on: [SimpleWebMtoMP4Converter](https://github.com/NelloKudo/SimpleWebMtoMP4Converter)
+- 🔭 Currently working on: (；☉_☉)
 
-- 🌱 Currently learning: **Java, Swift**
+- 🌱 Currently learning: **Maths 💀**
 
-- 📫 How to reach me (Discord): **MarshNello#4178**
+- 📫 How to reach me (Discord): **marshnello**
 
 - 🎬 My AniList: [https://anilist.co/user/NelloKudo/](https://anilist.co/user/NelloKudo/)
 
